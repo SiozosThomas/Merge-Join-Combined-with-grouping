@@ -23,4 +23,4 @@
 
 ## Output File
 
-![Alt Text](result.png)
+![Alt Text](/output/result.png)
