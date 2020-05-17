@@ -11,12 +11,12 @@
 
 ## Data
 
-Τα δεδομένα χρησιμοποιούνται από την βάση της IMDB (Internet Movie Database).\n
+Τα δεδομένα χρησιμοποιούνται από την βάση της IMDB (Internet Movie Database).<br/>
 [link](https://www.imdb.com/interfaces/)
 
 ## Running the project
 
 Τα data πρέπει να βρίσκονται σε φάκελο "data". Μέσα στον φάκελο τους φακέλους:
 * title.akas.tsv
-* title.basics.tsv\n
+* title.basics.tsv<br/>
 Οι οποίοι βρίσκονται στα δεδομένα της βάσης.
