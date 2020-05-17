@@ -12,7 +12,7 @@
 ## Data
 
 Τα δεδομένα χρησιμοποιούνται από την βάση της IMDB (Internet Movie Database).
-[link](https://www.imdb.com/interfaces/)\
+[link](https://www.imdb.com/interfaces/)
 
 ## Running the project
 
