@@ -19,8 +19,7 @@
 Τα αρχεία εισόδου πρέπει να βρίσκονται σε φάκελο "data".<br/>
 Μέσα στον φάκελο "data" τους φακέλους:
 * title.akas.tsv
-* title.basics.tsv
-<br/>
+* title.basics.tsv<br/>
 Οι οποίοι βρίσκονται στα δεδομένα της βάσης.
 
 ## Output File
