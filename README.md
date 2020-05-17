@@ -20,3 +20,8 @@
 * title.akas.tsv
 * title.basics.tsv<br/>
 Οι οποίοι βρίσκονται στα δεδομένα της βάσης.
+
+## Output File
+
+![GitHub Logo](result.png)
+Format: ![Alt Text](url)
