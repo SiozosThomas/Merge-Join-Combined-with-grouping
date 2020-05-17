@@ -23,4 +23,4 @@
 
 ## Output File
 
-Format: ![Alt Text](result.png)
+![Alt Text](result.png)
