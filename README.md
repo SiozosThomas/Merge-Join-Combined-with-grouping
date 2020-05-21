@@ -25,3 +25,6 @@
 ## Output File
 
 ![Alt Text](/output/result.png)
+
+## Copyright
+[MIT](https://github.com/SiozosThomas/Merge-Join-Combined-with-grouping/blob/master/LICENSE) © 2020 Thomas Siozos
